@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Angelo Israel! 👋
 
-<!--
-**Anghel01/Anghel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 IT Engineering Student | Junior Web & Mobile Developer
 
-Here are some ideas to get you started:
+I am an Information Technology Engineering student in my final semesters at **Escuela Politécnica Nacional (EPN)** in Quito, Ecuador. I am passionate about software development, problem-solving, and building intuitive web and mobile applications. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently looking for an **Internship or Junior Developer** role to apply my knowledge and keep growing! 🚀
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Frontend:** JavaScript, React.js, HTML5, CSS3, Vite
+* **Backend:** Node.js, Express, RESTful APIs, Python, Java
+* **Databases:** MongoDB, SQL
+* **Tools:** Git, GitHub, VS Code, Postman
+* **Methodologies:** Agile (Scrum), CI/CD basics
+
+---
+
+### 🚀 What I'm currently working on
+* 🎓 Finishing my IT Engineering degree at EPN.
+* 🎫 **FestiMap Ecuador:** Developing a comprehensive web and mobile platform for locating cultural events.
+* 🎵 **CNM Project:** Collaborating on the Frontend and Backend development for the National Music Conservatory's management system.
+
+---
+
+### 📫 How to reach me
+* **LinkedIn:** https://www.linkedin.com/in/angelo-conteron/
+* **Email:** angelo.conteron@epn.edu.ec
