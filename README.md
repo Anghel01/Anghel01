@@ -1,4 +1,4 @@
-# Hi there, I'm Angelo Israel! 👋
+# Hi there, I'm Angelo Israel!
 
 ### 👨‍💻 IT Engineering Student | Junior Web & Mobile Developer
 
@@ -8,7 +8,7 @@ Currently looking for an **Internship or Junior Developer** role to apply my kno
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 * **Frontend:** JavaScript, React.js, HTML5, CSS3, Vite
 * **Backend:** Node.js, Express, RESTful APIs, Python, Java
 * **Databases:** MongoDB, SQL
@@ -17,13 +17,13 @@ Currently looking for an **Internship or Junior Developer** role to apply my kno
 
 ---
 
-### 🚀 What I'm currently working on
+### What I'm currently working on
 * 🎓 Finishing my IT Engineering degree at EPN.
 * 🎫 **FestiMap Ecuador:** Developing a comprehensive web and mobile platform for locating cultural events.
 * 🎵 **CNM Project:** Collaborating on the Frontend and Backend development for the National Music Conservatory's management system.
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 * **LinkedIn:** https://www.linkedin.com/in/angelo-conteron/
 * **Email:** angelo.conteron@epn.edu.ec
