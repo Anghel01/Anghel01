@@ -1,4 +1,20 @@
-# <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="100"/>  Bienvenid@ a mi GitHub
+<h1 align="center">
+  <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="120px"/>
+  <br />
+  <span style="background: linear-gradient(to right, #61DAFB, #A161FB); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.5em; font-weight: bold;">
+    Hi there! 👋 Welcome to my digital space
+  </span>
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Exploring-Code%20%26%20Networks-61DAFB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building%20Solutions-A161FB?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
+  <i>"Transforming ideas into systems and bits into experiences."</i> 🚀
+</p>
+<br />
 
 ![Banner de Condor Coders](banner-github-Anghel01.png)
 
@@ -9,24 +25,21 @@
 <br />
 <h2 align="left">🚀 About Me</h2>
 <p align="left">
-  I am an <b>IT Engineering student at EPN</b> with a <b>hybrid mindset</b>. I don't just write code; I bridge the gap between software, network infrastructure, and the physical world through IoT. My goal is to build technology that is as robust on the inside as it is intuitive on the outside.
+  I am an <b>IT Engineering student at EPN</b> with a <b>hybrid mindset</b> and an insatiable curiosity for technology. I don't just build software; I strive to understand the entire ecosystem, from network protocols to high-level system architecture.
 </p>
 
 <ul align="left">
   <li>
-    <b>⚡ Currently Learning:</b> Deep diving into 
-    <span style="color: #61DAFB; font-weight: bold;">React.js</span>, 
-    <span style="color: #4479A1; font-weight: bold;">MySQL</span>, and 
-    <span style="color: #ED8B00; font-weight: bold;">Java</span> to sharpen my Full-Stack & Backend skills.
+    <b>💻 Technical Core:</b> I have built a solid foundation in <span style="color: #61DAFB; font-weight: bold;">React.js</span>, <span style="color: #ED8B00; font-weight: bold;">Java</span>, and <span style="color: #4479A1; font-weight: bold;">MySQL</span>, focusing on creating robust and scalable solutions.
   </li>
   <li>
-    <b>🤝 Collaborative:</b> I love contributing to projects, helping others, and I’m always open to asking for help to keep growing.
+    <b>📚 Continuous Learning:</b> I am a dedicated lifelong learner, constantly diving into new topics such as <b>Cloud Infrastructure, Cyber-security, Mobile Development, AI Integration,</b> and beyond. My goal is to master the tools of today while preparing for the challenges of tomorrow.
   </li>
   <li>
-    <b>🎨 Creative Eye:</b> My passion for <b>drawing</b> ✏️ isn't just a hobby; it’s what fuels my attention to detail in UI/UX design.
+    <b>🤝 Collaborative & Proactive:</b> I love being part of a team where I can share knowledge, contribute to Open Source, and tackle complex problems through collective brainpower.
   </li>
   <li>
-    <b>🔋 Offline:</b> When I’m not coding, I’m either lost in <b>music</b> 🎧, <b>gaming</b> 🎮, or staying active with <b>sports</b> 🏀.
+    <b>🎨 Creative Engineering:</b> My background in <b>drawing</b> ✏️ isn't just a hobby; it’s my secret weapon for <b>UI/UX Design</b>. It allows me to build systems that are as beautiful and intuitive as they are technically sound.
   </li>
 </ul>
 <h2 align="left">💻 Tecnologías</h2>
