@@ -16,7 +16,7 @@
 </p>
 <br />
 
-![Banner de Condor Coders](banner-github-Anghel01.png)
+![Banner de Condor Coders](banner_github_Anghel01.png)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-conteron/)
 <a href="https://anghel01.github.io">
