@@ -1,30 +1,69 @@
-# Hi there, I'm Angelo Israel!
+# <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="100"/>  Bienvenid@ a mi GitHub
 
-### 👨‍💻 IT Engineering Student | Junior Web & Mobile Developer
+![Banner de Condor Coders](banner-github-Anghel01.png)
 
-I am an Information Technology Engineering student in my final semesters at **Escuela Politécnica Nacional (EPN)** in Quito, Ecuador. I am passionate about software development, problem-solving, and building intuitive web and mobile applications. 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-conteron/)
+<a href="https://anghel01.github.io">
+    <img src="./portfolio.png" height="28" alt="Angelo's Portfolio" />
+</a>
+<br />
+<h2 align="left">🚀 About Me</h2>
+<p align="left">
+  I am an <b>IT Engineering student at EPN</b> with a <b>hybrid mindset</b>. I don't just write code; I bridge the gap between software, network infrastructure, and the physical world through IoT. My goal is to build technology that is as robust on the inside as it is intuitive on the outside.
+</p>
 
-Currently looking for an **Internship or Junior Developer** role to apply my knowledge and keep growing! 🚀
+<ul align="left">
+  <li>
+    <b>⚡ Currently Learning:</b> Deep diving into 
+    <span style="color: #61DAFB; font-weight: bold;">React.js</span>, 
+    <span style="color: #4479A1; font-weight: bold;">MySQL</span>, and 
+    <span style="color: #ED8B00; font-weight: bold;">Java</span> to sharpen my Full-Stack & Backend skills.
+  </li>
+  <li>
+    <b>🤝 Collaborative:</b> I love contributing to projects, helping others, and I’m always open to asking for help to keep growing.
+  </li>
+  <li>
+    <b>🎨 Creative Eye:</b> My passion for <b>drawing</b> ✏️ isn't just a hobby; it’s what fuels my attention to detail in UI/UX design.
+  </li>
+  <li>
+    <b>🔋 Offline:</b> When I’m not coding, I’m either lost in <b>music</b> 🎧, <b>gaming</b> 🎮, or staying active with <b>sports</b> 🏀.
+  </li>
+</ul>
 
----
+<br />
+<h2 align="left">💻 Tecnologías</h2>
 
-### Tech Stack & Tools
-* **Frontend:** JavaScript, React.js, HTML5, CSS3, Vite
-* **Backend:** Node.js, Express, RESTful APIs, Python, Java
-* **Databases:** MongoDB, SQL
-* **Tools:** Git, GitHub, VS Code, Postman
-* **Methodologies:** Agile (Scrum), CI/CD basics
+<h4 align="left">🚀 Software Development (Web & Mobile)</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JS" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" alt="Vite" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="Postgres" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="36" height="36" />
+</p>
 
----
+<h4 align="left">📡 Networking & IoT Systems</h4>
+<p align="left">
+  <img src="./cisco-logo-vector.png" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" alt="Raspberry" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" width="36" height="36" />
+</p>
 
-### What I'm currently working on
-* 🎓 Finishing my IT Engineering degree at EPN.
-* 🎫 **FestiMap Ecuador:** Developing a comprehensive web and mobile platform for locating cultural events.
-* 🎵 **CNM Project:** Collaborating on the Frontend and Backend development for the National Music Conservatory's management system.
+<h4 align="left">🛠️ Tools & UI/UX Design</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="36" height="36" />
+</p>
 
----
+### ⚙️ &nbsp;GitHub Analytics
 
-### How to reach me
-* **LinkedIn:** https://www.linkedin.com/in/angelo-conteron/
-* **Email:** angelo.conteron@epn.edu.ec
-* **Portfolio:** https://anghel01.github.io/
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-nine-xi-75.vercel.app/api?username=Anghel01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-nine-xi-75.vercel.app/api/top-langs/?username=Anghel01&layout=compact&langs_count=8&theme=algolia"/>
+</p>
