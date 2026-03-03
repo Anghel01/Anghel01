@@ -29,8 +29,6 @@
     <b>🔋 Offline:</b> When I’m not coding, I’m either lost in <b>music</b> 🎧, <b>gaming</b> 🎮, or staying active with <b>sports</b> 🏀.
   </li>
 </ul>
-
-<br />
 <h2 align="left">💻 Tecnologías</h2>
 
 <h4 align="left">🚀 Software Development (Web & Mobile)</h4>
@@ -61,9 +59,14 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="36" height="36" />
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📊 &nbsp;GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-nine-xi-75.vercel.app/api?username=Anghel01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-nine-xi-75.vercel.app/api/top-langs/?username=Anghel01&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
