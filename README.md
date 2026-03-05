@@ -14,7 +14,6 @@
 <p align="center">
   <i>"Transforming ideas into systems and bits into experiences."</i> 🚀
 </p>
-<br />
 
 ![Banner de Condor Coders](banner_github_Anghel01.png)
 
