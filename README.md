@@ -87,66 +87,140 @@
 
 <table>
 <tr>
+<td width="50%">
 
-<td align="center" width="50%">
+<h3>🗺️ FestiMap Ecuador</h3>
 
-[![FestiMap](festimap.png)](https://github.com/Anghel01/festimap-ecuador-web-app)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=A78BFA&width=435&lines=Web+%26+Mobile+•+Maps+%26+Routing+•+REST+API" alt="Typing SVG" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anghel01&repo=festimap-ecuador-web-app&theme=algolia&hide_border=true&description_lines_count=2)](https://github.com/Anghel01/festimap-ecuador-web-app)
+> <picture><img src="https://img.shields.io/badge/─────────────────────────────-a78bfa?style=flat-square&labelColor=a78bfa"/></picture>
+
+Plataforma web y móvil para descubrir festividades en Ecuador, planificar rutas culturales y gestionar tu agenda de eventos.
+
+<a href="https://github.com/Anghel01/festimap-ecuador-web-app"><img width="100%" src="festimap.png"/></a>
+
+<br/>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-a78bfa?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+<br/>
+
+![Web+Mobile](https://img.shields.io/badge/✦_Web_+_Mobile-a78bfa?style=flat-square)
+![REST API](https://img.shields.io/badge/✦_REST_API-a78bfa?style=flat-square)
+![Maps](https://img.shields.io/badge/✦_Maps_&_Routing-a78bfa?style=flat-square)
+
+<br/>
+
+[![Ver Repo](https://img.shields.io/badge/⬡__Ver_Repositorio-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anghel01/festimap-ecuador-web-app)
 
 </td>
+<td width="50%">
 
-<td align="center" width="50%">
+<h3>🖥️ Sistema de Gestión Académica</h3>
 
-[![CNM Frontend](CNM_Frontend.png)](https://github.com/Lug1241/Proyecto_CNM_Frontend)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=61DAFB&width=435&lines=React+19+•+Real+Time+Alerts+•+SPA" alt="Typing SVG" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lug1241&repo=Proyecto_CNM_Frontend&theme=algolia&hide_border=true&description_lines_count=2)](https://github.com/Lug1241/Proyecto_CNM_Frontend)
+> <picture><img src="https://img.shields.io/badge/─────────────────────────────-61DAFB?style=flat-square&labelColor=61DAFB"/></picture>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+Plataforma web en React para gestionar módulos académicos, calificaciones y alertas en tiempo real del Conservatorio Nacional de Música.
+
+<a href="https://github.com/Lug1241/Proyecto_CNM_Frontend"><img width="100%" src="CNM_Frontend.png"/></a>
+
+<br/>
+
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<br/>
+
+![SPA](https://img.shields.io/badge/✦_SPA-61DAFB?style=flat-square)
+![Real Time](https://img.shields.io/badge/✦_Alertas_en_Tiempo_Real-61DAFB?style=flat-square)
+![Academic](https://img.shields.io/badge/✦_Gestión_Académica-61DAFB?style=flat-square)
+
+<br/>
+
+[![Ver Repo](https://img.shields.io/badge/⬡__Ver_Repositorio-61DAFB?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Lug1241/Proyecto_CNM_Frontend)
 
 </td>
-
 </tr>
 <tr>
+<td width="50%">
 
-<td align="center" width="50%">
+<h3>⚙️ API Académica — CNM Backend</h3>
 
-[![CNM Backend](CNM_Backend.png)](https://github.com/Lug1241/Proyecto_CNM_BackEnd)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=4DB33D&width=435&lines=REST+API+•+JWT+Auth+•+Auto+Scheduler" alt="Typing SVG" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lug1241&repo=Proyecto_CNM_BackEnd&theme=algolia&hide_border=true&description_lines_count=2)](https://github.com/Lug1241/Proyecto_CNM_BackEnd)
+> <picture><img src="https://img.shields.io/badge/─────────────────────────────-339933?style=flat-square&labelColor=339933"/></picture>
+
+API en Node.js + MySQL con autenticación JWT, reglas de negocio y cierre académico automatizado vía scheduler para el Conservatorio Nacional de Música.
+
+<a href="https://github.com/Lug1241/Proyecto_CNM_BackEnd"><img width="100%" src="CNM_Backend.png"/></a>
+
+<br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcryptjs-FF6B6B?style=flat-square&logo=letsencrypt&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-FF9900?style=flat-square&logo=files&logoColor=white)
+![Scheduler](https://img.shields.io/badge/node--schedule-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+<br/>
+
+![REST](https://img.shields.io/badge/✦_REST_API-339933?style=flat-square)
+![SP](https://img.shields.io/badge/✦_Stored_Procedures-339933?style=flat-square)
+![Auto](https://img.shields.io/badge/✦_Cierre_Automático-339933?style=flat-square)
+
+<br/>
+
+[![Ver Repo](https://img.shields.io/badge/⬡__Ver_Repositorio-339933?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lug1241/Proyecto_CNM_BackEnd)
 
 </td>
+<td width="50%">
 
-<td align="center" width="50%">
+<h3>🥊 CartoonFighter</h3>
 
-[![CartoonFighter](cartoonfighter.jpg)](https://github.com/Anghel01/cartoon-fighter)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=FF4455&width=435&lines=2D+Action+Survival+•+Unity+•+WebGL+Export" alt="Typing SVG" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anghel01&repo=cartoon-fighter&theme=algolia&hide_border=true&description_lines_count=2)](https://github.com/Anghel01/cartoon-fighter)
+> <picture><img src="https://img.shields.io/badge/─────────────────────────────-ff4455?style=flat-square&labelColor=ff4455"/></picture>
+
+2D action-survival game built with Unity and C#. Fast-paced combat with cartoon-style characters and WebGL export ready to play in browser.
+
+<a href="https://github.com/Anghel01/cartoon-fighter"><img width="100%" src="cartoonfighter.jpg"/></a>
+
+<br/>
 
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+<br/>
+
+![2D](https://img.shields.io/badge/✦_2D_Game-ff4455?style=flat-square)
+![Action](https://img.shields.io/badge/✦_Action_Survival-ff4455?style=flat-square)
+![WebGL](https://img.shields.io/badge/✦_WebGL_Ready-ff4455?style=flat-square)
+
+<br/>
+
+[![Ver Repo](https://img.shields.io/badge/⬡__Ver_Repositorio-ff4455?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anghel01/cartoon-fighter)
 
 </td>
-
 </tr>
 </table>
