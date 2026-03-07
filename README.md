@@ -83,97 +83,70 @@
     alt="example" />
 </p>
 
-
 <h2 align="left">📌 Featured Projects</h2>
 
-<table width="100%" cellspacing="10" cellpadding="8" border="0">
-  <tr>
+<table>
+<tr>
 
-    <!-- CARD 1: FESTIMAP -->
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/Anghel01/festimap-ecuador-web-app">
-        <img width="100%" src="festimap.png" alt="FestiMap Ecuador"/>
-      </a>
-      <br/><br/>
-      <strong>🗺️ FestiMap Ecuador</strong>
-      <br/>
-      <sub>Plataforma web y móvil para descubrir festividades en Ecuador y planificar rutas culturales.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/Anghel01/festimap-ecuador-web-app">
-        <img src="https://img.shields.io/badge/Ver%20Repositorio-a78bfa?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
+<td align="center" width="50%">
 
-    <!-- CARD 2: CNM FRONTEND -->
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/Lug1241/Proyecto_CNM_Frontend">
-        <img width="100%" src="CNM_Frontend.png" alt="CNM Frontend"/>
-      </a>
-      <br/><br/>
-      <strong>🖥️ Sistema de Gestión Académica</strong>
-      <br/>
-      <sub>Plataforma web en React para módulos académicos, calificaciones y alertas en tiempo real.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/Lug1241/Proyecto_CNM_Frontend">
-        <img src="https://img.shields.io/badge/Ver%20Repositorio-61DAFB?style=for-the-badge&logo=github&logoColor=black"/>
-      </a>
-    </td>
+[![FestiMap](festimap.png)](https://github.com/Anghel01/festimap-ecuador-web-app)
 
-  </tr>
-  <tr>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anghel01&repo=festimap-ecuador-web-app&theme=algolia&hide_border=true&description_lines_count=2)](https://github.com/Anghel01/festimap-ecuador-web-app)
 
-    <!-- CARD 3: CNM BACKEND -->
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/Lug1241/Proyecto_CNM_BackEnd">
-        <img width="100%" src="CNM_Backend.png" alt="CNM Backend"/>
-      </a>
-      <br/><br/>
-      <strong>⚙️ API Académica — Cierre Automatizado</strong>
-      <br/>
-      <sub>API REST en Node.js + MySQL con autenticación JWT y cierre académico automatizado vía scheduler.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/Lug1241/Proyecto_CNM_BackEnd">
-        <img src="https://img.shields.io/badge/Ver%20Repositorio-339933?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-    <!-- CARD 4: CARTOON FIGHTER -->
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/Anghel01/cartoon-fighter">
-        <img width="100%" src="cartoonfighter.jpg" alt="CartoonFighter"/>
-      </a>
-      <br/><br/>
-      <strong>🥊 CartoonFighter</strong>
-      <br/>
-      <sub>2D action-survival game built with Unity and C#. Fast-paced combat with cartoon-style characters.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/Anghel01/cartoon-fighter">
-        <img src="https://img.shields.io/badge/Ver%20Repositorio-ff4455?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
+</td>
 
-  </tr>
+<td align="center" width="50%">
+
+[![CNM Frontend](CNM_Frontend.png)](https://github.com/Lug1241/Proyecto_CNM_Frontend)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lug1241&repo=Proyecto_CNM_Frontend&theme=algolia&hide_border=true&description_lines_count=2)](https://github.com/Lug1241/Proyecto_CNM_Frontend)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="50%">
+
+[![CNM Backend](CNM_Backend.png)](https://github.com/Lug1241/Proyecto_CNM_BackEnd)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lug1241&repo=Proyecto_CNM_BackEnd&theme=algolia&hide_border=true&description_lines_count=2)](https://github.com/Lug1241/Proyecto_CNM_BackEnd)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</td>
+
+<td align="center" width="50%">
+
+[![CartoonFighter](cartoonfighter.jpg)](https://github.com/Anghel01/cartoon-fighter)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anghel01&repo=cartoon-fighter&theme=algolia&hide_border=true&description_lines_count=2)](https://github.com/Anghel01/cartoon-fighter)
+
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+
+</td>
+
+</tr>
 </table>
