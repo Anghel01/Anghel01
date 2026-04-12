@@ -72,11 +72,9 @@
 </p>
 
 ### 📊 &nbsp;GitHub Stats
-
-### 📊 &nbsp;GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anghel01&token=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&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anghel01&token=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&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anghel01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anghel01&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=false"/>
 </p>
 
