@@ -75,6 +75,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=false"/>
+  [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=algolia)](https://github.com/anuraghazra/github-profile-summary-cards)
 </p>
 
 <p align="center">
