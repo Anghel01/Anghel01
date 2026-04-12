@@ -73,9 +73,7 @@
 
 ### 📊 &nbsp;GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-nine-xi-75.vercel.app/api?username=Anghel01&token=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&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-nine-xi-75.vercel.app/api/top-langs/?username=Anghel01&token=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&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=false"/>
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=algolia)
 </p>
 
 <p align="center">
