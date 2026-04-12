@@ -72,8 +72,9 @@
 </p>
 
 ### 📊 &nbsp;GitHub Stats
+
 <p align="center">
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=algolia)
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=false"/>
 </p>
 
 <p align="center">
