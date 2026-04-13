@@ -81,7 +81,7 @@
 </p>
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anghel01&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anghel01&theme=algolia&hide_border=true"/>
 </div>
 
 <p align="center">
