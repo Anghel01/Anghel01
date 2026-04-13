@@ -73,7 +73,7 @@
 
 ### 📊 &nbsp;GitHub Stats
 
-<img alt="Anghel01's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Anghel01&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=00ff00" height="192px"/>
+<img alt="Anghel01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anghel01&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=false"/>
 </p>
