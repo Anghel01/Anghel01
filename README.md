@@ -80,14 +80,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=algolia" alt="Profile Details"/>
 </p>
 
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Anghel01/count.svg"/>
-  <br/>
-</div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anghel01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anghel01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anghel01&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
 </div>
 
