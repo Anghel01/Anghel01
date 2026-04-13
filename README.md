@@ -76,6 +76,9 @@
   <img alt="Anghel01's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Anghel01&show_icons=true&count_private=true&hide_border=true&theme=algolia" height="192px"/>
 </p>
 <p align="center">
+  <img align="center" alt="Anghel01's top langs" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anghel01&layout=compact&langs_count=10&hide=html,css&theme=algolia&hide_border=true" />
+</p>
+<p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=false"/>
 </p>
 <p align="center">
