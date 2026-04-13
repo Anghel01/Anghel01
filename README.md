@@ -73,7 +73,10 @@
 
 ### 📊 &nbsp;GitHub Stats
 
-<img alt="Anghel01's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Anghel01&show_icons=true&count_private=true&hide_border=true&theme=dark" height="192px"/>
+<p align="center">
+  <img alt="Anghel01's Github Stats" src="https://github-readme-stats-git-main-anghel01.vercel.app/api?username=Anghel01&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
+</p>
+
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=false"/>
 </p>
@@ -82,10 +85,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=algolia" alt="Profile Details"/>
 </p>
 
-<div>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anghel01&bg_color=0d1117&color=ffffff&line=00d9ff&point=00ff00&area_color=00d9ff&hide_border=true"/>
-</div>
-
+</p>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
