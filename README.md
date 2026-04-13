@@ -74,7 +74,7 @@
 ### 📊 &nbsp;GitHub Stats
 
 <p align="center">
-  <img alt="Anghel01's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Anghel01&show_icons=true&count_private=true&hide_border=true&theme=dark" height="192px"/>
+  <img alt="Anghel01's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Anghel01&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="192px"/>
 </p>
 
 <p align="center">
