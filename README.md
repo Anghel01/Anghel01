@@ -80,9 +80,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=algolia" alt="Profile Details"/>
 </p>
 
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anghel01&theme=algolia&hide_border=true"/>
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=algolia" alt="Profile Details"/>
+</p>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
