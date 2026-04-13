@@ -81,7 +81,7 @@
 </p>
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anghel01&bg_color=0d1117&color=58a6ff&line=1f6feb&point=79c0ff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anghel01&bg_color=0d1117&color=ffffff&line=00d9ff&point=00ff00&area_color=00d9ff&hide_border=true"/>
 </div>
 
 <p align="center">
