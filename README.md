@@ -1,14 +1,6 @@
 <h1 align="center">
   <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="120px"/>
   <br />
-  <span style="background: linear-gradient(to right, #61DAFB, #A161FB); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.5em; font-weight: bold;">
-    Hi there! 👋 Welcome to my digital space
-  </span>
-</h1>
-
-<h1 align="center">
-  <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="120px"/>
-  <br />
   <b>Hi there! 👋 I'm Angelo – IT Engineer & Creative Coder</b>
 </h1>
 
