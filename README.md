@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="120px"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0a3d6b,100:00d9ff&amp;height=160&amp;section=header&amp;text=Angelo%20Israel&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=45&amp;desc=IT%20Engineer%20%26%20Creative%20Coder&amp;descAlignY=65&amp;descSize=18&amp;descColor=00d9ff" />
+</p>
 
 
 <p align="center">
