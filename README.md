@@ -6,6 +6,14 @@
   </span>
 </h1>
 
+<h1 align="center">
+  <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="120px"/>
+  <br />
+  <b>Hi there! 👋 I'm Angelo – IT Engineer & Creative Coder</b>
+</h1>
+
+<p align="center"><b>Fullstack Dev • Networking • UI/UX • Open Source</b></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Exploring-Code%20%26%20Networks-61DAFB?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Building%20Solutions-A161FB?style=for-the-badge&logoColor=white" />
