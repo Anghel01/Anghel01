@@ -2,10 +2,7 @@
   <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="120px"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:0a3d6b,100:00d9ff&amp;height=160&amp;section=header&amp;text=Angelo%20Israel&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=45&amp;desc=IT%20Engineer%20%26%20Creative%20Coder&amp;descAlignY=65&amp;descSize=18&amp;descColor=00d9ff" />
-
-<img align="center" alt="Anghel01's top langs" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Anghel01&layout=compact&langs_count=20&theme=algolia&hide_border=true" height="180px"/>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:00d9ff&height=160&section=header&text=Angelo%20Israel&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=IT%20Engineer%20%26%20Creative%20Coder&descAlignY=65&descSize=18&descColor=00d9ff)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
