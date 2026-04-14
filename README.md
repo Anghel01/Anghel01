@@ -29,8 +29,6 @@
   <i>"Transforming ideas into systems and bits into experiences."</i> 🚀
 </p>
 
-![Banner](banner_github_Anghel01.png)
-
 <p align="left">
   <a href="https://www.linkedin.com/in/angelo-conteron/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
