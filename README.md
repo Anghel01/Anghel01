@@ -3,8 +3,6 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:00d9ff&height=160&section=header&text=Angelo%20Israel&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=IT%20Engineer%20%26%20Creative%20Coder&descAlignY=65&descSize=18&descColor=00d9ff" />
-<img align="center" alt="Anghel01's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anghel01&layout=compact&langs_count=20&theme=algolia&hide_border=true" height="180px"/>
-
 
 
 <p align="center">
