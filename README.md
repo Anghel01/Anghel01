@@ -1,137 +1,143 @@
 <h1 align="center">
-  <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="70"><br>
-  <b>Hi, I'm Angelo!</b>
-  <br>
-  <sub>IT Engineer • Fullstack Dev • Cloud & UI/UX Enthusiast</sub>
+  <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="120px"/>
+  <br />
+  <b>Hi there! 👋 I'm Angelo – IT Engineer & Creative Coder</b>
 </h1>
 
-<div align="center">
+<p align="center"><b>Fullstack Dev • Networking • UI/UX • Open Source</b></p>
 
-  <!-- Contact Badges -->
-  <a href="mailto:anghel01.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/angelo-conteron/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://anghel01.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Exploring-Code%20%26%20Networks-61DAFB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building%20Solutions-A161FB?style=for-the-badge&logoColor=white" />
+</p>
 
----
+<p align="center">
+  <i>"Transforming ideas into systems and bits into experiences."</i> 🚀
+</p>
 
-<div align="center">
-  <em>🚀 Transforming ideas into systems and bits into meaningful experiences.</em>
-</div>
+![Banner de Condor Coders](banner_github_Anghel01.png)
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 &nbsp;IT Engineering student at EPN, passionate about technology and solving real-world problems through code.
-- 💡 &nbsp;Hybrid mindset: I love to explore everything from low-level network protocols to high-level software architecture.
-- 💻 &nbsp;Fullstack Developer experienced with React.js, Node.js, Java, MySQL, and PostgreSQL.
-- ☁️ &nbsp;Cloud, security, mobile & AI enthusiast — always learning and adapting.
-- 🤝 &nbsp;Team player: I thrive in collaborative environments, open source projects, and knowledge sharing.
-- 🎨 &nbsp;Creative engineering: My background in drawing ✏️ and UI/UX helps me design beautiful, intuitive experiences.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" title="JavaScript" height="36"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" title="React" height="36"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" title="Node.js" height="36"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" title="Java" height="36"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" title="MySQL" height="36"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" height="36"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" title="Git" height="36"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" title="GitHub" height="36"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" title="Figma" height="36"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" title="Linux" height="36"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" title="Vite" height="36"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" title="Postman" height="36"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" title="Arduino" height="36"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" title="Raspberry Pi" height="36"/>
-  <img src="./cisco-logo-vector.png" title="Cisco" height="36"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Anghel01&show_icons=true&count_private=true&hide_border=true&theme=algolia" height="160">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anghel01&layout=compact&langs_count=10&theme=algolia&hide_border=true" height="160">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=true" height="140">
-  <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=algolia" height="170">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anghel01&bg_color=0d1117&color=ffffff&line=00d9ff&point=00ff00&area_color=00d9ff&hide_border=true" height="200">
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<!-- Project Card 1 -->
-<a href="https://github.com/Anghel01/festimap-ecuador-web-app" target="_blank" style="text-decoration:none">
-  <img src="festimap.png" width="320" alt="FestiMap Ecuador"/><br>
-  <b>🗺️ FestiMap Ecuador</b>
-  <br>
-  <sub>Discover Ecuadorian festivals, plan cultural routes, and manage your event schedule.</sub>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-conteron/)
+<a href="https://anghel01.github.io">
+    <img src="./portfolio.png" height="28" alt="Angelo's Portfolio" />
 </a>
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web+Mobile-✦-a78bfa?style=flat-square&labelColor=333"/>
-<br><br>
+<br />
+<h2 align="left">🚀 About Me</h2>
+<p align="left">
+  I am an <b>IT Engineering student at EPN</b> with a <b>hybrid mindset</b> and an insatiable curiosity for technology. I don't just build software; I strive to understand the entire ecosystem, from network protocols to high-level system architecture.
+</p>
 
-<!-- Project Card 2 -->
-<a href="https://github.com/Lug1241/Proyecto_CNM_Frontend" target="_blank" style="text-decoration:none">
-  <img src="CNM_Frontend.png" width="320" alt="Academic Management System"/><br>
-  <b>🖥️ Academic Management System</b>
-  <br>
-  <sub>Web app (React) to manage academic modules, grades, and real-time alerts for a music conservatory.</sub>
-</a>
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/SPA-✦-61DAFB?style=flat-square&labelColor=333"/>
-<br><br>
+<ul align="left">
+  <li>
+    <b>💻 Technical Core:</b> I have built a solid foundation in <span style="color: #61DAFB; font-weight: bold;">React.js</span>, <span style="color: #ED8B00; font-weight: bold;">Java</span>, and <span style="color: #4479A1; font-weight: bold;">MySQL</span>, focusing on creating robust and scalable solutions.
+  </li>
+  <li>
+    <b>📚 Continuous Learning:</b> I am a dedicated lifelong learner, constantly diving into new topics such as <b>Cloud Infrastructure, Cyber-security, Mobile Development, AI Integration,</b> and beyond. My goal is to master the tools of today while preparing for the challenges of tomorrow.
+  </li>
+  <li>
+    <b>🤝 Collaborative & Proactive:</b> I love being part of a team where I can share knowledge, contribute to Open Source, and tackle complex problems through collective brainpower.
+  </li>
+  <li>
+    <b>🎨 Creative Engineering:</b> My background in <b>drawing</b> ✏️ isn't just a hobby; it’s my secret weapon for <b>UI/UX Design</b>. It allows me to build systems that are as beautiful and intuitive as they are technically sound.
+  </li>
+</ul>
+<h2 align="left">💻 Tecnologías</h2>
 
-<!-- Project Card 3 -->
-<a href="https://github.com/Lug1241/Proyecto_CNM_BackEnd" target="_blank" style="text-decoration:none">
-  <img src="CNM_Backend.png" width="320" alt="Academic API"/><br>
-  <b>⚙️ Academic API — CNM Backend</b>
-  <br>
-  <sub>REST API with Node.js, MySQL, JWT authentication, business rules & scheduler automation.</sub>
-</a>
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-✦-339933?style=flat-square&labelColor=333"/>
-<br><br>
+<h4 align="left">🚀 Software Development (Web & Mobile)</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JS" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" alt="Vite" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="Postgres" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="36" height="36" />
+</p>
 
-<!-- Project Card 4 -->
-<a href="https://github.com/Anghel01/cartoon-fighter" target="_blank" style="text-decoration:none">
-  <img src="cartoonfighter.jpg" width="320" alt="CartoonFighter"/><br>
-  <b>🥊 CartoonFighter</b>
-  <br>
-  <sub>2D action-survival game made with Unity and C#, ready to play in browser (WebGL).</sub>
-</a>
-<br>
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
-<br><br>
+<h4 align="left">📡 Networking & IoT Systems</h4>
+<p align="left">
+  <img src="./cisco-logo-vector.png" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" alt="Raspberry" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" width="36" height="36" />
+</p>
 
-</div>
+<h4 align="left">🛠️ Tools & UI/UX Design</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="36" height="36" />
+</p>
 
----
+### 📊 &nbsp;GitHub Stats
+<p align="center">
+  <img alt="Anghel01's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Anghel01&show_icons=true&count_private=true&hide_border=true&theme=algolia" height="192px"/>
+<p align="center">
+  <img align="center" alt="Anghel01's top langs" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anghel01&layout=compact&langs_count=20&theme=algolia&hide_border=true" />
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=false"/>
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=algolia" alt="Profile Details"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anghel01&bg_color=0d1117&color=ffffff&line=00d9ff&point=00ff00&area_color=00d9ff&hide_border=true"/>
+</p>
 
-<!--
-If you want, you can add a FAQ or "More About Me" or CV link at the end.
--->
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+<h2 align="left">📌 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+<h3>🗺️ FestiMap Ecuador</h3>
+
+> Plataforma web y móvil para descubrir festividades en Ecuador, planificar rutas culturales y gestionar tu agenda de eventos.
+<a href="https://github.com/Anghel01/festimap-ecuador-web-app"><img src="festimap.png" width="100%"/></a>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-a78bfa?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+![Web+Mobile](https://img.shields.io/badge/Web_+_Mobile-✦-a78bfa?style=flat-square&labelColor=333) ![REST API](https://img.shields.io/badge/REST_API-✦-a78bfa?style=flat-square&labelColor=333) ![Maps](https://img.shields.io/badge/Maps_&_Routing-✦-a78bfa?style=flat-square&labelColor=333) [![Ver Repo](https://img.shields.io/badge/Ver%20Repositorio-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anghel01/festimap-ecuador-web-app)
+</td>
+<td width="50%">
+<h3>🖥️ Sistema de Gestión Académica</h3>
+
+> Plataforma web en React para gestionar módulos académicos, calificaciones y alertas en tiempo real del Conservatorio Nacional de Música.
+<a href="https://github.com/Lug1241/Proyecto_CNM_Frontend"><img src="CNM_Frontend.png" width="100%"/></a>
+
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+![SPA](https://img.shields.io/badge/SPA-✦-61DAFB?style=flat-square&labelColor=333) ![Real Time](https://img.shields.io/badge/Alertas_en_Tiempo_Real-✦-61DAFB?style=flat-square&labelColor=333) ![Academic](https://img.shields.io/badge/Gestión_Académica-✦-61DAFB?style=flat-square&labelColor=333) [![Ver Repo](https://img.shields.io/badge/Ver%20Repositorio-61DAFB?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Lug1241/Proyecto_CNM_Frontend)
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>⚙️ API Académica — CNM Backend</h3>
+
+> API REST en Node.js + MySQL con JWT auth, reglas de negocio y cierre académico automatizado vía scheduler.
+<a href="https://github.com/Lug1241/Proyecto_CNM_BackEnd"><img src="CNM_Backend.png" width="100%"/></a>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![bcrypt](https://img.shields.io/badge/bcryptjs-FF6B6B?style=flat-square&logo=letsencrypt&logoColor=white) ![Multer](https://img.shields.io/badge/Multer-FF9900?style=flat-square&logo=files&logoColor=white) ![Scheduler](https://img.shields.io/badge/node--schedule-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+![REST](https://img.shields.io/badge/REST_API-✦-339933?style=flat-square&labelColor=333) ![SP](https://img.shields.io/badge/Stored_Procedures-✦-339933?style=flat-square&labelColor=333) ![Auto](https://img.shields.io/badge/Cierre_Automático-✦-339933?style=flat-square&labelColor=333) [![Ver Repo](https://img.shields.io/badge/Ver%20Repositorio-339933?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lug1241/Proyecto_CNM_BackEnd)
+</td>
+
+<td width="50%">
+<h3>🥊 CartoonFighter</h3>
+
+> 2D action-survival game built with Unity and C#. Fast-paced combat with cartoon-style characters and WebGL export ready to play in browser.
+<a href="https://github.com/Anghel01/cartoon-fighter"><img src="cartoonfighter.jpg" width="100%"/></a>
+
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+![2D](https://img.shields.io/badge/2D_Game-✦-ff4455?style=flat-square&labelColor=333) ![Action](https://img.shields.io/badge/Action_Survival-✦-ff4455?style=flat-square&labelColor=333) ![WebGL](https://img.shields.io/badge/WebGL_Ready-✦-ff4455?style=flat-square&labelColor=333) [![Ver Repo](https://img.shields.io/badge/Ver%20Repositorio-ff4455?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anghel01/cartoon-fighter)
+</td>
+</tr>
+</table>
