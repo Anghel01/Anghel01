@@ -1,10 +1,4 @@
-<h1 align="center">
-  <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="100px"/>
-  <br />
-  <b>Hi there! 👋 I'm Angelo</b>
-</h1>
-
-<h3 align="center">IT Engineer & Creative Coder</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:00d9ff&height=200&section=header&text=Angelo%20Israel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Engineer%20%26%20Creative%20Coder&descAlignY=58&descSize=20&descColor=00d9ff" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -13,6 +7,7 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anghel01&color=00d9ff&style=for-the-badge&label=Profile+Views" />
   <img src="https://img.shields.io/badge/Exploring-Code%20%26%20Networks-61DAFB?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Building%20Solutions-A161FB?style=for-the-badge&logoColor=white" />
 </p>
@@ -32,7 +27,7 @@
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d6b&height=3&section=header" />
 
 ## 🚀 About Me
 
@@ -59,7 +54,7 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d6b&height=3&section=header" />
 
 ## 💻 Tecnologías
 
@@ -91,9 +86,13 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="36" height="36" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d6b&height=3&section=header" />
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anghel01&theme=algolia&no-frame=true&column=7&margin-w=10" />
+</p>
 
 <p align="center">
   <img alt="Anghel01's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Anghel01&show_icons=true&count_private=true&hide_border=true&theme=algolia" height="180px"/>
@@ -117,7 +116,11 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d6b&height=3&section=header" />
 
 ## 📌 Featured Projects
 
@@ -167,3 +170,5 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0d1117&height=120&section=footer" />
