@@ -1,10 +1,16 @@
 <h1 align="center">
-  <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="120px"/>
+  <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="100px"/>
   <br />
-  <b>Hi there! 👋 I'm Angelo – IT Engineer & Creative Coder</b>
+  <b>Hi there! 👋 I'm Angelo</b>
 </h1>
 
-<p align="center"><b>Fullstack Dev • Networking • UI/UX • Open Source</b></p>
+<h3 align="center">IT Engineer & Creative Coder</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Networking+Engineer;UI%2FUX+Designer;Open+Source+Contributor;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Exploring-Code%20%26%20Networks-61DAFB?style=for-the-badge&logoColor=white" />
@@ -15,35 +21,49 @@
   <i>"Transforming ideas into systems and bits into experiences."</i> 🚀
 </p>
 
-![Banner de Condor Coders](banner_github_Anghel01.png)
+![Banner](banner_github_Anghel01.png)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-conteron/)
-<a href="https://anghel01.github.io">
-    <img src="./portfolio.png" height="28" alt="Angelo's Portfolio" />
-</a>
-<br />
-<h2 align="left">🚀 About Me</h2>
 <p align="left">
-  I am an <b>IT Engineering student at EPN</b> with a <b>hybrid mindset</b> and an insatiable curiosity for technology. I don't just build software; I strive to understand the entire ecosystem, from network protocols to high-level system architecture.
+  <a href="https://www.linkedin.com/in/angelo-conteron/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://anghel01.github.io">
+    <img src="./portfolio.png" height="28" alt="Angelo's Portfolio" />
+  </a>
 </p>
 
-<ul align="left">
-  <li>
-    <b>💻 Technical Core:</b> I have built a solid foundation in <span style="color: #61DAFB; font-weight: bold;">React.js</span>, <span style="color: #ED8B00; font-weight: bold;">Java</span>, and <span style="color: #4479A1; font-weight: bold;">MySQL</span>, focusing on creating robust and scalable solutions.
-  </li>
-  <li>
-    <b>📚 Continuous Learning:</b> I am a dedicated lifelong learner, constantly diving into new topics such as <b>Cloud Infrastructure, Cyber-security, Mobile Development, AI Integration,</b> and beyond. My goal is to master the tools of today while preparing for the challenges of tomorrow.
-  </li>
-  <li>
-    <b>🤝 Collaborative & Proactive:</b> I love being part of a team where I can share knowledge, contribute to Open Source, and tackle complex problems through collective brainpower.
-  </li>
-  <li>
-    <b>🎨 Creative Engineering:</b> My background in <b>drawing</b> ✏️ isn't just a hobby; it’s my secret weapon for <b>UI/UX Design</b>. It allows me to build systems that are as beautiful and intuitive as they are technically sound.
-  </li>
-</ul>
-<h2 align="left">💻 Tecnologías</h2>
+---
 
-<h4 align="left">🚀 Software Development (Web & Mobile)</h4>
+## 🚀 About Me
+
+<table>
+<tr>
+<td>
+
+💻 **Technical Core**  
+Solid foundation in **React.js**, **Java**, and **MySQL**, focused on robust and scalable solutions.
+
+📚 **Continuous Learning**  
+Diving into **Cloud Infrastructure**, **Cyber-security**, **Mobile Dev** and **AI Integration**.
+
+</td>
+<td>
+
+🤝 **Collaborative & Proactive**  
+Open Source contributor, team player, and problem solver.
+
+🎨 **Creative Engineering**  
+Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Systems that are as beautiful as they are functional.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tecnologías
+
+#### 🚀 Software Development (Web & Mobile)
 <p align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JS" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" width="36" height="36" />
@@ -55,7 +75,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="36" height="36" />
 </p>
 
-<h4 align="left">📡 Networking & IoT Systems</h4>
+#### 📡 Networking & IoT Systems
 <p align="left">
   <img src="./cisco-logo-vector.png" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="36" height="36" />
@@ -64,35 +84,42 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" width="36" height="36" />
 </p>
 
-<h4 align="left">🛠️ Tools & UI/UX Design</h4>
+#### 🛠️ Tools & UI/UX Design
 <p align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" width="36" height="36" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="36" height="36" />
 </p>
 
-### 📊 &nbsp;GitHub Stats
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img alt="Anghel01's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Anghel01&show_icons=true&count_private=true&hide_border=true&theme=algolia" height="192px"/>
-<p align="center">
-  <img align="center" alt="Anghel01's top langs" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anghel01&layout=compact&langs_count=20&theme=algolia&hide_border=true" />
+  <img alt="Anghel01's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Anghel01&show_icons=true&count_private=true&hide_border=true&theme=algolia" height="180px"/>
+  &nbsp;
+  <img align="center" alt="Anghel01's top langs" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anghel01&layout=compact&langs_count=20&theme=algolia&hide_border=true" height="180px"/>
 </p>
+
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=false"/>
 </p>
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=algolia" alt="Profile Details"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anghel01&bg_color=0d1117&color=ffffff&line=00d9ff&point=00ff00&area_color=00d9ff&hide_border=true"/>
 </p>
 
-
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-<h2 align="left">📌 Featured Projects</h2>
+
+---
+
+## 📌 Featured Projects
 
 <table>
 <tr>
@@ -128,7 +155,6 @@
 
 ![REST](https://img.shields.io/badge/REST_API-✦-339933?style=flat-square&labelColor=333) ![SP](https://img.shields.io/badge/Stored_Procedures-✦-339933?style=flat-square&labelColor=333) ![Auto](https://img.shields.io/badge/Cierre_Automático-✦-339933?style=flat-square&labelColor=333) [![Ver Repo](https://img.shields.io/badge/Ver%20Repositorio-339933?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lug1241/Proyecto_CNM_BackEnd)
 </td>
-
 <td width="50%">
 <h3>🥊 CartoonFighter</h3>
 
