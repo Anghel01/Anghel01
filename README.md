@@ -1,21 +1,21 @@
-<table width="100%" border="0">
-<tr>
-<td width="20%" align="center">
-  <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="180px"/>
-</td>
-<td width="80%">
-  <img src="banner_github_Anghel01.png" width="100%"/>
-</td>
-</tr>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="160px"/>
+    </td>
+    <td width="75%" valign="middle">
+      <img src="banner_github_Anghel01.png" width="100%"/>
+    </td>
+  </tr>
 </table>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:00d9ff&height=160&section=header&text=Angelo%20Israel&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=IT%20Engineer%20and%20Creative%20Coder&descAlignY=65&descSize=18&descColor=00d9ff)
-
-<h3 align="center">👋 Hi there! Welcome to my GitHub profile!</h3>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:00d9ff&height=140&section=header&text=Angelo%20Israel&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=IT%20Engineer%20and%20Creative%20Coder&descAlignY=65&descSize=16&descColor=00d9ff)
+<p align="center" style="margin-top: -20px;">
+  <b>👋 Hi there! Welcome to my GitHub profile!</b>
+</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Networking+Engineer;UI%2FUX+Designer;Open+Source+Contributor;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=30&lines=Fullstack+Developer;Networking+Engineer;UI%2FUX+Designer;Open+Source+Contributor;Lifelong+Learner+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
