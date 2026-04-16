@@ -84,18 +84,13 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
 #### 📡 Networking & IoT Systems
 <p align="left">
   <img src="./cisco-logo-vector.png" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" alt="Raspberry" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" width="36" height="36" />
+  [![My Skills](https://skillicons.dev/icons?i=linux,arduino,raspberrypi,bash)](https://skillicons.dev)
+
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=linux,arduino,raspberrypi,bash)](https://skillicons.dev)
+
 #### 🛠️ Tools & UI/UX Design
-<p align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="36" height="36" />
-</p>
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,figma)](https://skillicons.dev)
 
