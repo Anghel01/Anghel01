@@ -118,9 +118,8 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
 </table>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Anghel01&show_icons=true&count_private=true&hide_border=true&hide_rank=true&rank_icon=github&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=A161FB&text_bold=false&custom_title=Angelo%20Israel%20Conterón%20Santillán&show=reviews,discussions_started,discussions_answered,commits&area=true" alt="Angelo's Profile Stats" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=transparent&title_color=ffffff&text_color=9de1fe&icon_color=ffdd67&bg_color=1e1e2e00&border_color=1e1e2e00&container_color=1e1e2e00&chart_color=ffdd67&line_color=ffdd67&area_color=A161FB" alt="Angelo's Profile Summary" width="100%"/>
 </p>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation" />
