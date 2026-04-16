@@ -75,10 +75,11 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
 
 #### 📡 Networking & IoT Systems
 <p align="left">
-  <img src="./cisco-icon.svg" width="48" height="48" style="margin-right: 10px;" />
+  <img src="./cisco-icon.svg" width="48" height="48" style="margin-right: 20px;" />
   <img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi,bash" />
 </p>
 #### 🛠️ Tools & UI/UX Design
+
 [![My Skills](https://skillicons.dev/icons?i=github,git,figma)](https://skillicons.dev)
 
 
