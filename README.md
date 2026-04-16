@@ -10,7 +10,7 @@
 </table>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:00d9ff&height=140&section=header&text=Angelo%20Israel&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=IT%20Engineer%20and%20Creative%20Coder&descAlignY=65&descSize=16&descColor=00d9ff)
-<p align="center" style="margin-top: -50px;">
+<p align="center" style="margin-top: -20px;">
   <b>👋 Hi there! Welcome to my GitHub profile!</b>
 </p>
 <p align="center">
