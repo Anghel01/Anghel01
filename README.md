@@ -97,9 +97,9 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="36" height="36" />
 </p>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" width="36" height="36" /><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" width="36" height="36" /><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma" width="36" height="36" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=github,git,figma)](https://skillicons.dev)
+
+
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d6b&height=3&section=header)
 
