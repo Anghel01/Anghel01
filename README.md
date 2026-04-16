@@ -118,8 +118,7 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
       <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=true" height="170px"/>
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=A161FB&bg_color=0d111700&container_color=0d111700&border_color=0d111700&chart_color=A161FB&area_color=A161FB" alt="Profile Summary" height="175px"/>
-    </td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=transparent&title_color=00d9ff&text_color=ffffff&icon_color=A161FB&bg_color=0d111700&border_color=0d111700&chart_color=00d9ff&area_color=A161FB" alt="Profile Summary" height="175px"/>    </td>
   </tr>
 </table>
 
