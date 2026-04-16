@@ -118,7 +118,7 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
 </table>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=transparent&title_color=ffffff&text_color=9de1fe&icon_color=ffdd67&bg_color=1e1e2e00&border_color=1e1e2e00&container_color=1e1e2e00&chart_color=ffdd67&line_color=ffdd67&area_color=A161FB" alt="Angelo's Profile Summary" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=A161FB&bg_color=0d111700&container_color=0d111700&border_color=0d111700&chart_color=A161FB&area_color=A161FB" alt="Angelo's Profile Summary" width="100%"/>
 </p>
 
 <p align="center">
