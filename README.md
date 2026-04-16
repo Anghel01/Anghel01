@@ -122,13 +122,11 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d6b&height=3&section=header)
 
 ## 📌 Featured Projects
