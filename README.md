@@ -74,11 +74,7 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
 
 
 #### 📡 Networking & IoT Systems
-<p align="left">
-  <img src="./cisco-logo-vector.png" width="36" height="36" />
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=linux,arduino,raspberrypi,bash)](https://skillicons.dev)
+<p align="left"><img src="./cisco-logo-vector.png" width="48" height="48" /><img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi,bash" /></p>
 
 #### 🛠️ Tools & UI/UX Design
 [![My Skills](https://skillicons.dev/icons?i=github,git,figma)](https://skillicons.dev)
