@@ -70,28 +70,17 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
 ## 💻 Technologies
 
 #### 🚀 Software Development (Web & Mobile)
-<p align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JS" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" alt="Vite" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="NodeJS" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="Postgres" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="Postman" width="36" height="36" />
-</p>
+![Skills](https://skillicons.dev/icons?i=js,react,vite,nodejs,java,mysql,postgres,postman)
+
 
 #### 📡 Networking & IoT Systems
 <p align="left">
   <img src="./cisco-logo-vector.png" width="36" height="36" />
-  [![My Skills](https://skillicons.dev/icons?i=linux,arduino,raspberrypi,bash)](https://skillicons.dev)
-
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,arduino,raspberrypi,bash)](https://skillicons.dev)
 
 #### 🛠️ Tools & UI/UX Design
-
 [![My Skills](https://skillicons.dev/icons?i=github,git,figma)](https://skillicons.dev)
 
 
