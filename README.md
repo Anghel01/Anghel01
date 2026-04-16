@@ -118,12 +118,9 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
 </table>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=algolia" alt="Profile Details"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Anghel01&show_icons=true&count_private=true&hide_border=true&hide_rank=true&rank_icon=github&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=A161FB&text_bold=false&custom_title=Angelo%20Israel%20Conterón%20Santillán&show=reviews,discussions_started,discussions_answered,commits&area=true" alt="Angelo's Profile Stats" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anghel01&bg_color=0d1117&color=ffffff&line=00d9ff&point=00ff00&area_color=00d9ff&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation" />
