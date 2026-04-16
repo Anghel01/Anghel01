@@ -90,10 +90,13 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
   <img src="https://skillicons.dev/icons?i=raspberrypi" />
   <img src="https://skillicons.dev/icons?i=bash" />
 </p>
+
 #### 🛠️ Tools & UI/UX Design
-
-[![My Skills](https://skillicons.dev/icons?i=github,git,figma)](https://skillicons.dev)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0a3d6b&height=3&section=header)
