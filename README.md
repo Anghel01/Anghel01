@@ -104,11 +104,9 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="Anghel01's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Anghel01&show_icons=true&count_private=true&hide_border=true&theme=algolia" height="170px"/>
-  &nbsp;
-  <img alt="Anghel01's top langs" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Anghel01&layout=compact&langs_count=20&theme=algolia&hide_border=true" height="170px"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=false" height="170px"/>
+  <img alt="Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Anghel01&show_icons=true&count_private=true&hide_border=true&theme=algolia" height="150px"/>
+  <img alt="Langs" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Anghel01&layout=compact&theme=algolia&hide_border=true" height="150px"/>
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=true" height="150px"/>
 </p>
 
 <p align="center">
