@@ -77,7 +77,9 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
 <p align="left">
   <img src="./cisco-icon.svg" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,bash" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=bash" />
 </p>
 #### 🛠️ Tools & UI/UX Design
 
