@@ -118,8 +118,7 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
       <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=true" height="170px"/>
     </td>
     <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=algolia" alt="Profile Summary" height="175px"/>  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Anghel01&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=A161FB" height="175px"/></table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation" />
