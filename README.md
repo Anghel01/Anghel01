@@ -103,11 +103,19 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img alt="Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Anghel01&show_icons=true&count_private=true&hide_border=true&theme=algolia" height="150px"/>
-  <img alt="Langs" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Anghel01&layout=compact&theme=algolia&hide_border=true" height="150px"/>
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=true" height="150px"/>
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center">
+      <img alt="Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Anghel01&show_icons=true&count_private=true&hide_border=true&theme=algolia" height="165px"/>
+    </td>
+    <td align="center">
+      <img alt="Langs" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Anghel01&layout=compact&theme=algolia&hide_border=true" height="165px"/>
+    </td>
+    <td align="center">
+      <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anghel01&theme=algolia&hide_border=true" height="165px"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anghel01&theme=algolia" alt="Profile Details"/>
