@@ -109,7 +109,8 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
       <img alt="Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Anghel01&show_icons=true&count_private=true&hide_border=true&theme=algolia" height="170px"/>
     </td>
     <td align="center">
-      <img alt="Langs" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Anghel01&layout=compact&theme=algolia&hide_border=true" height="170px"/>
+      <!-- Agregamos card_width=490 para que sea tan ancha como la tarjeta de abajo -->
+      <img alt="Langs" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Anghel01&layout=compact&theme=algolia&hide_border=true&card_width=490" height="170px"/>
     </td>
   </tr>
   <tr>
