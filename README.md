@@ -70,7 +70,16 @@ Background in **drawing** ✏️ — my secret weapon for **UI/UX Design**. Syst
 ## 💻 Technologies
 
 #### 🚀 Software Development (Web & Mobile)
-![Skills](https://skillicons.dev/icons?i=js,react,vite,nodejs,java,mysql,postgres,postman)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=vite" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
 
 
 #### 📡 Networking & IoT Systems
